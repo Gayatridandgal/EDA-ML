@@ -53,8 +53,3 @@ python chatbot.py
 - A beginner-friendly chatbot to assist with restaurant searches
 - Visualizations to understand food trends
 
-## Contributions
-Feel free to contribute by improving the chatbot's NLP capabilities, adding more advanced ML techniques, or enhancing the visualizations.
-
-## License
-This project is open-source and available under the MIT License.
