@@ -4,15 +4,6 @@
 ## Overview
 This project includes basic Exploratory Data Analysis (EDA) on the Zomato dataset and a simple chatbot designed for beginners. The goal is to extract insights from restaurant data and create a basic chatbot to assist users with common queries related to restaurants.
 
-## Features
-### 1. **Exploratory Data Analysis (EDA)**
-- Data Cleaning (handling missing values, removing duplicates)
-- Statistical Summary of Features
-- Visualizations:
-  - Distribution of restaurant ratings
-  - Most popular cuisines
-  - Price range vs. ratings
-  - Geographic distribution of restaurants
 
 ### 2. **Simple Chatbot**
 - Built using basic NLP techniques
